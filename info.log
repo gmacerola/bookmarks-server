@@ -6,3 +6,12 @@
 {"message":"Bookmark with id a309f15e-1ae1-40bb-89fd-6c6bf1a87926 not found.","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks/e32bc865-ea20-423d-83d7-3901b30dccb4","level":"error"}
 {"message":"Bookmark with id e32bc865-ea20-423d-83d7-3901b30dccb4 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: //api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: //api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"url is required","level":"error"}
